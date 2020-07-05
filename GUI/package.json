@@ -1,21 +1,15 @@
 {
-  "name": "electron-quick-start",
+  "name": "gui-for-morsecode-app",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "User Interface of the app",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Adarsh Joseph",
   "devDependencies": {
     "electron": "^9.0.5"
   }
