@@ -12,5 +12,8 @@
   "author": "Adarsh Joseph",
   "devDependencies": {
     "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "python-shell": "^2.0.1"
   }
 }
